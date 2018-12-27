@@ -1,0 +1,451 @@
+__label__summary what is the treatment of acute pericarditis
+__label__summary what is known about the effect of acupuncture in smoking cessation
+__label__list in what types of plant organelles we can detect prolamellar bodies
+__label__factoid which is the most common cause of sudden cardiac death in young athletes
+__label__summary for what is protein a from staphylococcus aureus used in biochemistry
+__label__factoid inhibition of which transporter is the mechanism of action of drug canagliflozin
+__label__yesno are oatp1b1 and oatp1b3 associated with bilirubin transport
+__label__factoid what is dovitinib
+__label__summary what is the role of neurogranin in alzheimers disease patients
+__label__yesno does gc content vary markedly within a given isochore
+__label__factoid which disease is treated with nusinersen
+__label__list which variables are included in the span100 score
+__label__summary what is membrane scission
+__label__summary which is the primary distinction between the reverse warburg effect and the conventional warburg effect
+__label__summary what is the role of trh in hypertension
+__label__yesno are adenylyl cyclases always transmembrane proteins
+__label__summary what constitutes an increased risk for individuals with fanconi anemia
+__label__summary what states the second parity rule pr2
+__label__factoid which gene fusion is the result of the philadelphia translocation or the philadelphia chromosome mutation
+__label__summary what is the arnoldchiari syndrome
+__label__list by which methods can we evaluate the reliability of a phylogenetic tree
+__label__summary what is the role of histone variant h2aw
+__label__factoid what is the mode of inheritance of  long qt  jervell and langenielsen syndrome
+__label__list which deiodinases are best known to be present in brain
+__label__summary what is the role of the tsix gene during x chromosome inactivation
+__label__summary what are the pyknons
+__label__factoid which is the most common cftr mutation in caucasians
+__label__yesno is there any protein that undergoes both monoubiquitination and polyubiquitination
+__label__list list the three most abundant bacterial phyla present in mouse feces
+__label__summary what is known about the kub5herarprd1b interactome
+__label__yesno is abdominal pain a common symptom in autism
+__label__summary what is the main biological function of the crisprcas9 genome editing system
+__label__factoid which pituitary adenoma is common cause of infertility is women
+__label__list which are the key players on radial glial specification to ependymal cells
+__label__summary what is the mechanism of action of pictilisib
+__label__yesno is shotgun lipidomics the direct infusion of a lipid sample into a mass spectrometer
+__label__summary what is the role of edaravone in traumatic brain injury
+__label__summary what is the role of hsp90 inhibition in cancer therapy
+__label__summary what is the association between probnp serum concentrations and stroke outcomes
+__label__yesno is corpus callosum involved in the mowatwilson syndrome
+__label__yesno is lenvatinib effective for renal cell carcinoma
+__label__summary what is the shelterin complex
+__label__yesno is titin the largest single protein molecule found in nature
+__label__factoid which is the most common measure of differences between dinucleotide relative abundance genomic signatures
+__label__summary what is the definition of autophagy
+__label__list list markers for autophagy
+__label__factoid which enzyme deficiency can cause gm1 gangliosidoses
+__label__yesno is recommended the use of perioperative treatment with thyroid hormone therapy in patients undergoing coronary artery bypass grafting
+__label__yesno is peripheral neuroepithelioma related to ewing sarcoma
+__label__yesno are there canonical marks of active chromatin in developmentally regulated genes
+__label__factoid what is the target of daratumumab
+__label__factoid symptoms of which disorder are evaluated with the davidson trauma scale
+__label__list which computational frameworks are available for predicting enhancers
+__label__summary what is the oldest human sample analysed by paleontology proteomics
+__label__factoid mutation of which gene is implicated in the familial isolated pituitary adenoma
+__label__yesno are there web based self management strategies for chronic pain
+__label__summary what is adhesive capsulitis
+__label__factoid willisekbom disease is also known as
+__label__factoid what molecule is targeted by suvorexant
+__label__summary what is the effect of amitriptyline in the mdx mouse model of duchenne muscular dystrophy
+__label__summary what is the general function of h3k79 methylation
+__label__list which are the subunits of the ikb protein kinase ikk
+__label__yesno is rasa2 involved in melanoma
+__label__list list bacterial species identified in the iceman tissues
+__label__summary what is the definition of minimal absent words
+__label__list which are the main histone modifications associated with enhancers
+__label__summary why does the prodrug amifostine ethyol create hypoxia
+__label__summary what is the systemic nickel allergy syndrome
+__label__yesno is ctf4 involved in sister chromatid cohesion establishment
+__label__factoid what is the prognostic role of alterred thyroid profile after cardiosurgery
+__label__list list cardinal features of the triple a syndrome
+__label__factoid which library is used for fixedlength approximate string matching
+__label__summary what is findbase
+__label__factoid which is the largest metabolic gene cluster in yeast
+__label__list abnormalities in which chromosomes were linked to the moyamoya disease
+__label__summary what are the effects of homozygosity of ednrb mutations in addition to hirschsprung disease
+__label__yesno is the gene maoa epigenetically modified by methylation
+__label__yesno is mammaprint approved by the united states food and drug administration
+__label__list which proteins compose the error prevention go 8oxog system in pseudomonas putida
+__label__yesno is low t3 syndrome related with high bnp in cardiac patients
+__label__yesno is ditpa a thyroid hormone analog utilized in experimental and clinical studies
+__label__list list clinical trials for prevention of sarcopenia
+__label__factoid which gene mutations cause the marfan syndrome
+__label__list name the major classes of small  non coding rnas in mammalians
+__label__summary what is the implication of histone lysine methylation in medulloblastoma
+__label__yesno are long non coding rnas as conserved in sequence as protein coding genes
+__label__yesno are immune cells affected in amyotrophic lateral sclerosis
+__label__factoid simpson grading is used to describe resection of which brain tumor
+__label__list what is the inheritance pattern of emerydreifuss muscular dystrophy
+__label__factoid what disease is mirtazapine predominantly used for
+__label__factoid which is the neurodevelopmental disorder associated to mutations in the x linked gene mecp2
+__label__list what imaging modalities have been listed as method of choice  to diagnose csf leak
+__label__summary what is hbvar
+__label__factoid which g protein is essential in the formation and function of lamellipodia
+__label__yesno has silicon been used in treatment of  incontinence
+__label__yesno is there any link between ctf4 and ctf18 during sister chromatid cohesion
+__label__summary what is behets disease
+__label__list what are the different classes of orally administered drugs used to treat diabetes
+__label__summary what are degrons
+__label__summary what is the suggested therapy for mycobacterium avium infection
+__label__yesno is the millerfisher syndrome considered to be a variant of guillainbarr
+__label__factoid which is the most abundant membrane protein on earth
+__label__factoid which cellular function is associated with transcription factors forkhead 1 and 2 fkh1 and fkh2
+__label__summary which phenomenon is described as oncogene addiction
+__label__yesno is tubulin acetylation involved in cell motility
+__label__list list some ways to reverse tau hyperphosphorylation in tauopathies
+__label__yesno is the protein product of the cylindromatosis gene cyld a deubiquitinating enzyme
+__label__yesno does the top2btop2a expression ratio affect the response to aml chemotherapy
+__label__summary what is the the menzerathaltmann law
+__label__summary what is the minimal genome build
+__label__summary what is known about maternal smoking and brain tumor risk
+__label__yesno is dexamethasone recommended for treatment of intracerebral hemorrhage
+__label__yesno does cucumber lower blood sugar in diabetics
+__label__summary what is prudent diet
+__label__factoid which gene is involved in the development of barth syndrome
+__label__yesno proteomic analyses need prior knowledge of the organism complete genome is the complete genome of the bacteria of the genus arthrobacter available
+__label__list what memory problems are reported in the  gulf war syndrome
+__label__summary what is the basis of the methodology of functional class scoring fcs for the analysis of gene expression data
+__label__yesno is cd99 encoded by mic2 gene
+__label__list list metalloenzyme inhibitors
+__label__factoid which is the phosphorylated residue in the promoter paused form of rna polymerase ii
+__label__factoid which residue of alphasynuclein was found to be phosphorylated in lewy bodies
+__label__summary is there a genetic component for happiness
+__label__yesno is aganglionic megacolon a feature of down syndrome
+__label__yesno is k63 linked protein ubiquitination related to proteasomal degradation
+__label__summary how is yellow fever virus transmitted
+__label__yesno are there any statistical methods for normalizing and identifying differential regions in histone modification chipseq data
+__label__factoid viliuisk encephalomyelitis is diagnosed in which geographical area
+__label__summary which is the underlying mechanism for exon skipping used to treat duchenne muscular dystrophy
+__label__factoid which is the main abnormality that arises with sox9 locus duplication
+__label__summary what is the applicability of the mcast algorithm
+__label__yesno is achondroplasia associated with hearing loss
+__label__factoid which cell type has the protein chromogranin a as marker
+__label__summary why cant humans synthesize neu5gc nglycolylneuraminic acid
+__label__summary what is a mitochondrial nucleoid
+__label__yesno has rna interference been awarded nobel prize
+__label__list what is scenar therapy used for
+__label__summary what is tnseq
+__label__yesno does triiodothyronine stimulate red blood cell sodium potassium pump
+__label__list list the diseases that can be treated using vedolizumab
+__label__factoid where is the histone variant cenpa preferentially localized
+__label__summary what is sqtlseeker
+__label__yesno are hepadnaviral minichromosomes free of nucleosomes
+__label__factoid what is the function of the protein encoded by the gene pabpc4
+__label__summary why are insulators necessary in gene therapy vectors
+__label__factoid which is the transcript responsible for xchromosome inactivation
+__label__yesno is there an association between tert promoter mutation and survival of glioma patients
+__label__factoid what is the enzymatic activity of parl
+__label__factoid which type of lung cancer is afatinib used for
+__label__yesno is exonuclease xrn1 a component of the pbodies
+__label__factoid what is  achondroplasia
+__label__summary what is the role of per genes in circadian rhythm control
+__label__yesno is there evidence to suggest that triiodothyronine has neuroprotective properties in traumatic brain injury
+__label__yesno is there a relation between anp and transcapillary albumin escape
+__label__list what are the reported adverse effects of gabapentin used in children
+__label__summary which diseases are caused by hex a deficiency
+__label__factoid what is trypan blue used for
+__label__summary describe armoured brain syndrome
+__label__summary what is path2ppi
+__label__summary describe malgaigne fracture
+__label__factoid which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome
+__label__summary describe what is the advantage of using a stain free protein gel in a western blot experiment
+__label__yesno is talen being used on stem cells
+__label__summary what is the mechanism of cementogenesis in pulp regeneration
+__label__factoid which is the chromosome area that the human gene coding for the dopamine transporter dat1 is located to
+__label__summary what is the advantage of using long nano columns in proteomics
+__label__factoid what memory problems are reported in the  gulf war syndrome
+__label__list what type of cancers and inherited diseases have been associated to mutations in the notch pathway
+__label__list which are the different isoforms of the mammalian notch receptor
+__label__factoid name a method for enrichment of argininemethylated peptides
+__label__yesno is vemurafenib used for thyroid cancer
+__label__factoid which r package is used for the detection of chromosomal abnormalities from microarray data
+__label__factoid what is the characteristic feature of the dykedavidoffmasson syndrome
+__label__summary what are the characteristics of the universal proteomics standard 2 ups2
+__label__factoid which receptors can be evaluated with the 18faltanserin
+__label__factoid name synonym of acrokeratosis paraneoplastica
+__label__yesno is the dictyostelium discoideum proteome known
+__label__list which are the side effects during tacrine administration in patients with alzheimers disease
+__label__list which proteins form part of the nrd complex in s cerevisiae
+__label__factoid what is the role of il18bp
+__label__yesno is macitentan an et agonist
+__label__summary what is the role of elmo1 gene in cell migration
+__label__list which genes does thyroid hormone receptor beta1 regulate in the heart
+__label__factoid how is connected isolated noncompaction cardiomyopathy with dilated cardiomyopathy
+__label__summary what is the role of lysinespecific demethylase 1 lsd1 in hematopoiesis
+__label__yesno can rnaseq be used for the analysis of nascent transcripts
+__label__summary describe clinical applications of the pim2 scoring system
+__label__yesno do lincrnas play a role in human cancer
+__label__list which currently known mitochondrial diseases have been attributed to polg mutations
+__label__summary what is the mechanism of action of onartuzumab
+__label__factoid what body parts are also known as phalanges
+__label__yesno is it feasible to determine the complete proteome of yeast
+__label__list which are the best treatment options to treat helicobacter pylori
+__label__yesno is synapsin a phosphoprotein
+__label__factoid which class of genes are mutated in diamond blackfan anemia patients
+__label__yesno is nod1 activated in inflammation
+__label__factoid what is the risk of developing acute myelogenous leukemia in fanconi anemia
+__label__list which are the mammalian orthologs of drosophila yki
+__label__yesno is there a role for transcription factories in genome organization
+__label__list which drugs are utilized to treat amiodaroneinduced thyroitoxicosis
+__label__yesno is micrornamirna 29 involved in postischemic cardiac remodeling
+__label__summary what is the purpose of the tokuhashi scoring system
+__label__summary what is the role of 5hmc 5 hydroxymethylcytocine in differentiation
+__label__yesno is cmyc subject to regulation by the circadian clock
+__label__yesno is alemtuzumab effective for remission induction in patients diagnosed with tcell prolymphocytic leukemia
+__label__factoid is cancer related to global dna hypo or hypermethylation
+__label__factoid what does isradipine do to ltype channels
+__label__list proteomic analyses have revealed proteins associated with the triplenegative breast cancers list some proposed proteins
+__label__factoid what family do mdia proteins belong in
+__label__factoid which bone protein is used in archaelogy for dating and species identification
+__label__summary how are crm cisregulatory modules defined
+__label__summary what is considered a reliable technique for the definitive cytogenetic diagnosis of fanconi anemia homozygosity
+__label__yesno is there a pharmacogenetic test for trastuzumab
+__label__list list the releases of jaspar database
+__label__factoid what is a mir
+__label__list list available tools for genomic visualisation in comparative genomics
+__label__summary what is the relationship between nucleosomes and exons
+__label__summary what is the function of the indian hedgehog protein in chondrocytes
+__label__yesno is growth factor independence 1b gfi1b important for hematopoiesis
+__label__summary what is dendb
+__label__summary what is the major difference between eucaryotes and procaryotes
+__label__factoid what causes katayama fever
+__label__factoid what is the ubiquitin proteome
+__label__yesno is there a difference in the rate between gene fusion and gene fission
+__label__yesno does neuroglobin has neuroprotective properties in the setting of traumatic brain injury
+__label__summary what is desomorphine
+__label__yesno is tens machine effective in pain
+__label__factoid for which type of diabetes can empagliflozin be used
+__label__yesno has revlimid been approved by the us food and drug administration
+__label__list list tele monitoring applications of miniaturised sensors
+__label__summary what is the role of tgfbeta in cardiac regeneration after myocardial injury
+__label__summary what are sirtuins
+__label__list what histone variants play a role in the dna damage reponse
+__label__summary how does dabigatran therapy affect aptt in patients with atrial fibrillation
+__label__factoid is the transcriptional regulator bach1 an activator or a repressor
+__label__list which are the clinical characteristics of diamondblackfan anemia
+__label__list in which diseases have electronic patient diaries been applied
+__label__list list invertebrates where ultraconserved elements have been identified
+__label__yesno does scrib deregulation promote cancer
+__label__list which are the enzymes involved in the control of tubulin acetylation
+__label__summary what is the link between tb turbeculosis infection and tnfa inhibition
+__label__summary elaborate on the treatnmd initiative for dmd patients
+__label__yesno is mycobacterium avium less susceptible to antibiotics than mycobacterium tuberculosis
+__label__yesno is cd56 useful in ewing sarcoma prognosis
+__label__summary what heterotachy states about molecular evolutionary processes
+__label__factoid what condition is usually represented by the acronym sudep
+__label__factoid which r package could be used for the identification of pediatric brain tumors
+__label__factoid which tool is used for the identification of recurrent variants in noncoding regions
+__label__summary how are human accelerated regions har defined
+__label__list which are the different homologs or family members of the hedgehog proteins in mammals
+__label__yesno does nimotuzumab improve survival of glioblastoma patients
+__label__list which phenotypes are associated with heterozygous mutations of the bscl2 gene
+__label__factoid which syndrome is associated with oatp1b1 and oatp1b3 deficiency
+__label__factoid how many tap73 isoforms have been identified in humans
+__label__yesno is meis1 implicated in microphthalmia
+__label__list list the main proteases used for sample digestion in proteomics
+__label__summary what is the result of mff overexpression in mitochondria
+__label__factoid which type of lung cancer is the most strongly associated with lamberteaton syndrome
+__label__factoid is the h3k4me3 histone mark related to transcriptional initiation or elongation
+__label__summary which is the mechanism used for synthesis of a highly functional ntruncated dystrophin isoform that attenuates dystrophinopathy
+__label__yesno is fatigue prevalent in patients receiving treatment for glioblastoma
+__label__yesno is phospholamban a regulatoryinhibitory protein of the ca atpase serca
+__label__factoid what is the drosophila melanogaster groucho protein
+__label__factoid what is the lay name of the treatment for ccsvi chronic cerebrospinal venous insufficiency  in multiple sclerosis
+__label__list which classes of endogenous retroelements are known to date
+__label__list which disease phenotypes are associated to prps1 mutations
+__label__list which are the musculoskeletal manifestations of marfan syndrome
+__label__list list chromosomes that have been linked to arnold chiari syndrome in the literature
+__label__factoid where is base j found in the genome of leishmania tarentolae
+__label__list list antiamyloidbeta monoclonal antibodies that have been investigated in clinical trials for treatment of alzheimer disease
+__label__yesno are ctcf and boris involved in genome regulation and cancer
+__label__factoid what is the her2 status in lifraumeni syndrome
+__label__list which assays can be used for detecting dna fragmentation resulting from programmed cell death apoptosis
+__label__factoid which molecule is targeted by a monoclonal antibody mepolizumab
+__label__factoid what do nerveassociated peripheral glial progenitors give rise to
+__label__yesno is pten involved in follicular thyroid carcinoma
+__label__factoid which mutated gene is associated with waardenburg and tietz syndromes
+__label__list which cdk targets control cytokinesis
+__label__factoid which heat shock protein is found to be upregulated during hsp90 inhibition
+__label__summary describe july effect
+__label__list which are the additions of the jaspar 2016 openaccess database of transcription factor binding profiles
+__label__yesno are there interactomes available for pou5f1 and sox2
+__label__factoid which genedefect causes the velblood type
+__label__factoid how are arboviruses transmitted
+__label__factoid at which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events
+__label__summary what is evaluated using the eortc qlq  info25 questionnaire
+__label__summary what is the role of the mcm27 complex
+__label__yesno is cardiac magnetic resonance imaging indicated in the preparticipation screening of athletes
+__label__yesno are bbs mutations involved in syndromic hirschsprung disease
+__label__list in which fields of dna sequencing are bloom filters applied
+__label__factoid which is the most widely used antitnf drug
+__label__factoid what is the number of protein coding genes in the human genome
+__label__list list functional roles of the ftsz protein
+__label__factoid which translocation is the hallmark of ewing sarcoma
+__label__summary what is snord116
+__label__summary what is known about mer41 repeat sequences
+__label__summary what is the mechanism of druginduced gingival overgrowth
+__label__yesno is plk2 involved in alphasynuclein phosphorylation in the nervous system
+__label__summary what is genomicus
+__label__list which are the most common methods for gene prioritization analysis
+__label__factoid which disease is associated with the ectopic expression of the protein encoded by the gene dux4
+__label__factoid which enzyme is inhibited by ixazomib
+__label__summary what is the orco protein in mosquitos
+__label__list list kartagener syndrome triad
+__label__summary what is piebaldism
+__label__summary describe the mechanism of action of aliskiren
+__label__factoid what disease is the drug aducanumab targeting
+__label__factoid which is the methyl donor of histone methyltransferases
+__label__yesno is puva therapy indicated for eczema treatment
+__label__yesno is the sdhaf2 gene encoding a protein necessary for flavination of sdha
+__label__summary what is the glasgow coma score
+__label__list list available genetic multicolor cell labeling techiniques in drosophila
+__label__factoid what is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery
+__label__list which genes were found to be methylated in bladder cancer cells
+__label__list which are the different membersisoforms of the ras oncogenes
+__label__factoid which is the vector of louping ill virus
+__label__list which dna sequences are more prone for the formation of rloops
+__label__factoid which is the  subcellular localization of erap2
+__label__list which are the cardiac manifestations of marfan syndrome
+__label__list please list 2 treatments for a torn rotator cuff
+__label__summary which treatment leads to an increase in neutrophil counts in severe congenital neutropenia
+__label__yesno can valproic acid prolong survival of glioblastoma patients
+__label__yesno does the 3d structure of  the genome remain stable during cell differentiation
+__label__factoid what is the role of the ubc9 enzyme in the protein sumoylation pathway
+__label__summary what is the function of the mis18 protein
+__label__summary what are cancer driver genes
+__label__yesno are thyroid hormone receptor alpha1 mutations  implicated in thyroid hormone resistance syndrome
+__label__factoid what is the effect of enamel matrix derivative on pulp regeneration
+__label__summary what is the mechanism of action of solanezumab
+__label__summary what happens upon disruption of a tad boundary
+__label__summary what is the effect of chk2 splice variants on wildtype chk2 kinase activity
+__label__list which factors activate zygotic gene expression during the maternaltozygotic transition in zebrafish
+__label__list which ones are the eskape organisms
+__label__list which drugs may interfere thyroxine absorption
+__label__yesno is rivaroxaban metabolized in kidneys
+__label__yesno has the protein setmar metnase a transposase domain
+__label__list how many and which are the different isoforms for the ryanodine receptor
+__label__list what are the generic versions of viagra
+__label__yesno does the word ovine refers to goats
+__label__yesno are the proteins erbin lap2 and merlin cooperating
+__label__factoid what is the incidence of cystic fibrosis in the caucasian population
+__label__list which are the stateoftheart computational tools for the prediction of gene fusion events
+__label__factoid what is a benefit of being g6pddeficient
+__label__factoid in which cells are atype lamins expressed
+__label__factoid which species of bacteria did the mitochondria originate from
+__label__yesno is pesticide exposure associated with polyneuropathy
+__label__summary what is the function of oseltamivir when administered during flu
+__label__yesno can ferric carboxymaltose be used to treat anemia in inflammatory bowel disease patients
+__label__yesno does chromatin immunoprecipitation chip show a bias for highly expressed loci
+__label__list which genesproteins have been found to inhibit cyclin dependent kinase 4 cdk4
+__label__yesno does the concentration of protein hif1 increase after the administration of the cytoprotective prodrugamifostine ethyol
+__label__factoid what is the role of dna repair cofactors atmin and nbs1
+__label__factoid how many disulfide bridges has the protein hepcidin got
+__label__factoid what is trichotillomania
+__label__summary what is the molecular pathogenesis of spinal muscular atrophy
+__label__factoid which molecule is targeted by daratumumab
+__label__list what are the side effects of nalmefene
+__label__factoid what does ibaq stand for in proteomic analysis
+__label__yesno can nadph oxidase be inhibited by apocynin and diphenylene iodonium
+__label__factoid abnormality in which vertebral region is important in the bertolottis syndrome
+__label__yesno does administration of triiodothyronine improve outcome following coronary artery bypass grafting
+__label__list list peptide fragmentations methods in mass spectrometry
+__label__summary what is the composition of the gammasecretase complex
+__label__factoid what molecule is targeted by brodalumab
+__label__yesno is cocaine use associated with increased risk for intracerebral hemorrhage
+__label__factoid what was the purpose of the fantom3 project
+__label__yesno is rankl secreted from the cells
+__label__list which compounds exist that are thyroid hormone analogs
+__label__factoid what is the inheritance of barth syndrome
+__label__list which extra thyroid tissues have thyrotropin tsh receptors
+__label__summary what causes erucism
+__label__summary which is the most wellaccepted method for down syndrome noninvasive prenatal diagnosis
+__label__yesno is cystatin c or cystatin 3 used as a biomarker of kidney function
+__label__factoid what is the cause of episodic ataxia type 6
+__label__yesno is imatinib an antidepressant drug
+__label__summary which is the most common genetic lesion among patients with joubert syndrome and a cerebellooculorenal phenotype
+__label__factoid how can the fetal rhesus be determined with noninvasive testing
+__label__list which are the most commonly reported pathological states associated with the formation of dna gquadruplexes
+__label__yesno could rg7112 be used as cancer therapy
+__label__summary what is ismara
+__label__summary describe mozart effect
+__label__list which interleukins are inhibited by dupilumab
+__label__summary how histone deacetylation causes transcriptional gene silencing
+__label__list list symptoms of 4h leukodystrophy
+__label__summary which is the major function of sororin
+__label__yesno does molindone affect body weight
+__label__yesno are there currently applications of deep learning in genomics
+__label__factoid which infection can be prevented with dapivirine
+__label__factoid what is an acceptable sequence coveragedepth required for human wholeexome sequencing
+__label__factoid which is the genome browser database for dna shape annotations
+__label__yesno is rip1 rip1 part of the necrosome
+__label__list what are the main clinical characteristics of pendred syndrome
+__label__yesno are there any specific antidotes for dabigatran
+__label__yesno is there an association between bruxism and reflux
+__label__summary what is the action of molindone
+__label__yesno do carmustine wafers improve survival of glioblastoma patients
+__label__yesno does pcsk9 proprotein convertase subtilisinkexin type 9 binds with hdlreceptor hdlr
+__label__factoid in which kingdom do microsporidia belong according to their current classification scheme
+__label__factoid angelman syndrome is associated with deletion of a part of chromosome 15 but if the deletion occurs in the paternally inherited chromosome 15 what is the disease
+__label__list which diseases are involved in the severe cutaneous reactions scar spectrum
+__label__factoid what alternate indication has vanoxerine been repositioned for
+__label__list which types of bacterial microflora are associated with the progression of periimplantitis
+__label__factoid inhibition of which enzyme is mechanism of action of alisertib
+__label__list which transcription factors are known as the four 4 yamanaka factors that have been used to create induced pluripotent stem cells  ipscs
+__label__factoid where are paneth cells located
+__label__yesno are nucleosomes positioned at dna replication origins
+__label__yesno is signal transducer and activator of transcription3 stat3 critical for tumor angiogenesis progression
+__label__factoid which is the enzyme that degrades decapped mrnas
+__label__factoid is there any genetic determinant of hair pigmentation that could be useful in forensic analyses
+__label__factoid what is the incidence of betathalassemia in greek population
+__label__list list active ingredients of the stribild polypill
+__label__list the cxcr2 receptor is targeted in cancer name five antagonists
+__label__list which posttranslational histone modifications are characteristic of facultative heterochromatin
+__label__list which dediodinases are present in kidney
+__label__list list fluorescent reporter proteins
+__label__yesno could plasmepsins be used as targets for developing antimalaria drugs
+__label__summary elaborate on the role of carmen in cardiac specification
+__label__summary what is the genome 10k project
+__label__yesno is there a role of proton beam therapy in medulloblastoma treatment
+__label__summary describe hot water reflex epilepsy
+__label__factoid which protein pathway is regulating sgk1mediated phosphorylation of foxo3a to control cell proliferation
+__label__list mutation of which gene and which chromosome cause neurofibromatosis type i
+__label__list list the types of the cardiorenal syndrome crs according to the fivepart classification system
+__label__factoid what is hyperosmia
+__label__summary how does phospholamban affect the biological activity of the calcium atpase serca
+__label__yesno are drosophila ultraconserved elements candidate ncrnas
+__label__factoid what is needed for mmp proteins to be functional
+__label__yesno is there an association between borna virus and brain tumor
+__label__summary what is a pbody processing body
+__label__yesno is there any research that relates the function of notch signaling with alzheimer disease
+__label__yesno is there a role of regorafenib for sarcoma treatment
+__label__factoid rts s as01 vaccine was developed to prevent which disease
+__label__factoid which gene is responsible for the development of sotos syndrome
+__label__yesno has the presence of delayed enhancement been documented in athletes performing strenuous exercise
+__label__list which are the synonyms of prostatespecific antigen
+__label__yesno can tetracycline affect tooth formation
+__label__summary what is leggcalvperthes disease
+__label__list which genes are involved in patient response to warfarin
+__label__summary which is the localization of the rifin family of proteins
+__label__factoid what distinguishes lantibiotics from antibiotics
+__label__summary the secreted frizzledrelated protein 3 sfpr3 is altered in human cancersare its level found to increase or to decrease
+__label__factoid what is the main application of swathms in proteomics
+__label__yesno could divalent metal transporter 1 deficiency lead to anemia
+__label__factoid what gene test is recommended for clopidogrel
+__label__factoid which technique led to the elucidation of the role of hoxd10 in regulating lymphatic endothelial responses to vegfc
+__label__yesno is calciumcalmodulin dependent protein kinase ii camkii involved in cardiac arrhythmias and heart failure
+__label__factoid which gene controls the expression of gata1 isoforms
+__label__factoid how many different mutations have been associated with muenke syndrome
+__label__summary what is the role of nets in systemic lupus erythematosus
+__label__factoid which glands are subject to attack by lymphocytes in sjogrens syndrome
+__label__list which components of the stress granules are known to be related to motor neuron degeneration in amyotrophic lateral sclerosis

@@ -1,0 +1,45 @@
+May 17, 2012:
+  Tested using Ant 1.6.5
+               Java 1.6.0_24
+
+To install:
+  gunzip -c MedPost-SKR_Public.tar.gz | tar -xvf - 
+  Update run.sh, run.bat Sample/run.bat, Sample/run.sh to conform
+  to your local installation the following two lines need to be
+  updated to the path of Java on your system and the installation
+  location of the MedPost/SKR Tagger.
+
+        set path=%path%;C:\Program Files (x86)\Java\jre6\bin
+        set TOPDIR=D:\Jim\Z\MedPost_SKR\MedPost-SKR
+
+
+NOTE:
+  These location of lexDB.serial and ngramOne.serial are specified by
+properties noted on the command line.  Also, if you are using the taggerServer,
+you may specify the port to use as a property.
+
+System.getProperty("lexFile", "/usr/local/MedPost-SKR/data/lexDB.serial");
+System.getProperty("ngramOne", "/usr/local/MedPost-SKR/data/ngramOne.serial");
+Integer.parseInt(System.getProperty("taggerserver.port", "1795"));
+
+-------------------------------------------------------------------------
+To compile:
+
+   ant jar
+
+
+To Run (Linux):
+
+  ./run.sh Sample/sample.txt test.out
+
+
+To Run (Linux command line);
+  java -DlexFile=lexDB_file_path -DngramOne=ngramOne_file_path -cp ../lib/mps.jar gov.nih.nlm.nls.mps.Tagger Sample/sample.txt test.out
+
+
+To Run (Windows - In Command Prompt);
+  run.bat Sample\sample.txt test.out
+
+
+To Run (Windows - In Command Prompt, command line);
+  java -DlexFile=lexDB_file_path -DngramOne=ngramOne_file_path -cp ..\lib\mps.jar gov.nih.nlm.nls.mps.Tagger Sample\sample.txt test.out

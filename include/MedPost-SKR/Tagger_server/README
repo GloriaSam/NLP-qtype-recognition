@@ -1,0 +1,8 @@
+Compile:  ant jar
+
+Run: java -cp ../lib/taggerServer.jar:../lib/mps.jar taggerServer
+
+## If you want a different startup port (1795 default), replace "##"
+below with the port number you wish to use.
+
+Run: java -Dtaggerserver.port=## -cp ../lib/taggerServer.jar:../lib/mps.jar taggerServer

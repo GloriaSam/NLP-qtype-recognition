@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<!-- ============================================ -->
+<!-- Ant Build File for Berkeley DB Java Database -->
+<!-- ============================================ -->
+
+<project name="Tagger" default="jar" basedir=".">
+<description>Compile NLS Tagger</description>
+
+    <property name="srcdir" value="${basedir}"/>
+    <property name="builddir" value="${basedir}/bld"/>
+    <property name="destdir" value="${builddir}/classes"/>
+    <property name="libdir" value="../lib"/>
+
+    <property name="jarfile" value="${libdir}/taggerServer.jar"/>
+
+    <property file="${user.home}/ant.properties"/>
+
+    <!-- ============================================================ -->
+    <!-- Prepare to build -->
+    <!-- ============================================================ -->
+    <target name="init">
+        <mkdir dir="${builddir}"/>
+        <mkdir dir="${destdir}"/>
+        <tstamp/>
+    </target>
+
+    <!-- ============================================================ -->
+    <!-- Clean out all class files and the distribution area -->
+    <!-- ============================================================ -->
+    <target name="clean" depends="init">
+        <delete>
+            <fileset dir="${destdir}"
+             includes="**/*.class,package"/>
+        </delete>
+        <delete dir="${dist.destdir}"/>
+    </target>
+
+    <!-- ============================================================ -->
+    <!-- Compile source files -->
+    <!-- ============================================================ -->
+    <target name="compile" depends="init">
+        <javac srcdir="${srcdir}"
+               destdir="${destdir}" 
+               classpath="${srcdir}:${libdir}/mps.jar" 
+               optimize="on"
+               deprecation="off" 
+               source="1.4">
+            <include name="taggerServer.java"/>
+        </javac>
+    </target>
+
+    <!-- ============================================================ -->
+    <!-- Package .class files into a .jar file.                       -->
+    <!-- ============================================================ -->
+    <target name="jar" depends="compile">
+        <jar basedir="${destdir}"
+             destfile="${jarfile}"
+             includes="**/*.class"/>
+    </target>
+</project>

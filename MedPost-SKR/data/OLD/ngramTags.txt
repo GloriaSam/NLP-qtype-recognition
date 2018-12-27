@@ -1,5 +1,0 @@
-num_tags = 60
-
-tag_str[] = {
-"''", "(", ")", ",", ".", ":", "CC", "CS", "CSN", "CST", "DB", "DD", "EX", "GE", "II", "JJ", "JJR", "JJT", "MC", "NN", "NNP", "NNS", "PN", "PND", "PNG", "PNR", "RR", "RRR", "RRT", "SYM", "TO", "VBB", "VBD", "VBG", "VBI", "VBN", "VBZ", "VDB", "VDD", "VDG", "VDI", "VDN", "VDZ", "VHB", "VHD", "VHG", "VHI", "VHN", "VHZ", "VM", "VVB", "VVD", "VVG", "VVGJ", "VVGN", "VVI", "VVN", "VVNJ", "VVZ", "``", 
-};

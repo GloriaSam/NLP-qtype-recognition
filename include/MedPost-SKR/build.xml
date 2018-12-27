@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<!-- ============================================ -->
+<!-- Ant Build File for MedPost/SKR Tagger        -->
+<!-- ============================================ -->
+
+<project name="Tagger" default="jar" basedir=".">
+<description>Compile NLS Tagger</description>
+
+    <property name="srcdir" value="${basedir}/src"/>
+    <property name="docdir" value="${basedir}/doc"/>
+    <property name="builddir" value="${basedir}/bld"/>
+    <property name="destdir" value="${builddir}/classes"/>
+    <property name="libdir" value="${basedir}/lib"/>
+
+    <property name="jarfile" value="${libdir}/mps.jar"/>
+
+    <property name="packages" value="gov.nih.nlm.nls.*"/>
+    <property file="${user.home}/ant.properties"/>
+
+    <!-- ============================================================ -->
+    <!-- Prepare to build                                             -->
+    <!-- ============================================================ -->
+    <target name="init">
+        <mkdir dir="${builddir}"/>
+        <mkdir dir="${destdir}"/>
+        <tstamp/>
+    </target>
+
+    <!-- ============================================================ -->
+    <!-- Clean out all class files and the distribution area          -->
+    <!-- ============================================================ -->
+    <target name="clean" depends="init">
+        <delete>
+            <fileset dir="${destdir}"
+             includes="**/*.class,package"/>
+        </delete>
+        <delete dir="${dist.destdir}"/>
+    </target>
+
+    <!-- ============================================================ -->
+    <!-- Compile source files                                         -->
+    <!-- ============================================================ -->
+    <target name="compile" depends="init">
+        <javac srcdir="${srcdir}"
+               destdir="${destdir}" 
+               optimize="on"
+               deprecation="off" 
+               source="1.4">
+            <include name="gov/nih/nlm/nls/**/*.java"/>
+        </javac>
+    </target>
+
+    <!-- ============================================================ -->
+    <!-- Package .class files into a .jar file.                       -->
+    <!-- ============================================================ -->
+    <target name="jar" depends="compile">
+        <jar basedir="${destdir}"
+             destfile="${jarfile}"
+             includes="**/*.class"/>
+    </target>
+
+    <!-- ============================================================ -->
+    <!-- Javadoc Generation                                           -->
+    <!-- ============================================================ -->
+    <target name="doc" depends="init">
+        <mkdir dir="${docdir}"/>
+     <javadoc packagenames="gov.*"
+             sourcepath="${srcdir}"
+             destdir="${docdir}"
+             author="true"
+             version="true"
+             use="true"
+	     package="true"
+             windowtitle="MedPost/SKR Part of Speech Tagger"
+             doctitle="NLS Internal"
+             bottom="MedPost/SKR POS Tagger - 2006 National Library of Medicine."
+	     splitindex="true">
+    </javadoc>
+    </target>
+</project>

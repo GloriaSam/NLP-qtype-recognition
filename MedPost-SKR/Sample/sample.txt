@@ -1,8 +1,0 @@
-PMID- 21349662
-TI  - OmpA is a virulence factor of Riemerella anatipestifer.
-AB  - Riemerella anatipestifer infection is probably the most economically important disease of farm ducks worldwide. The pathogen R. anatipestifer causes septicemia  anserum exsudativa in ducks, but little is known about the molecular basis of its pathogenesis and the virulence factors involved. In this study, by deleting ompA  gene from R. anatipestifer serotype 2 strain Th4, we constructed a mutant strain  Th4DeltaompA to investigate whether R. anatipestifer OmpA is an important virulence factor. Results showed that although the growth curve, bacterial and colony morphology of Th4DeltaompA in tryptic soybean broth (TSB) or on TSB agar were similar to its parent strain Th4, the adhesion and invasion capacities of mutant strain to Vero cells were decreased significantly. Furthermore, the median lethal dose (LD(50)) of both strains was determined to measure the virulence with 10-day-old Cherry Valley ducklings. The results showed that LD(50) of Th4DeltaompA mutant was >10(10) colony forming units (CFU), it was attenuated significantly in comparison with that of Th4 which LD(50) was 4.41 x 10(8) CFU. Additional analysis indicated that blood bacterial loading of ducklings infected  with the Th4DeltaompA mutant were much lower than those of Th4-infected ducklings. The results demonstrate that OmpA is a virulence factor of R. anatipestifer, and that it may act as an adhesin.
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-TA  - Vet Microbiol
-JT  - Veterinary microbiology
-JID - 7705469
