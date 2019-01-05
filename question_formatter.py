@@ -2,6 +2,9 @@ import json
 import subprocess
 import ast
 import re
+
+from nltk.stem import PorterStemmer
+from nltk.tokenize import sent_tokenize, word_tokenize
 #import nltk
 #from nltk.corpus import stopwords
 
@@ -14,6 +17,7 @@ class Question_Formatter():
         self.types = ['yesno', 'factoid','summary','list']
         self.types_q = ''
         self.cleaned_questions = ''
+        self.cleaned_questions_q_dot = ''
         self.type_question_ft = ''
 
         with open("./include/BioASQ-trainingDataset6b.json") as f:
@@ -23,18 +27,22 @@ class Question_Formatter():
         self.create_type_question_ft()
         return
 
-    def clean_questions(self):
+    def clean_questions(self, q_dot=False):
         """
-        Removes no alphanumeric characters.
+        Skipping no alphanumeric characters.
         Removes blank spaces, before after the text.
-        Puts every char in low case.
-        Puts a \n at the end of every question.
+        Changes each characters to lower case.
+        Stemming all the sentence
+        Puts a newline at the end of every question.
         """
         for q in self.data['questions']:
             temp = re.sub('[^ a-zA-Z0-9]', '', q['body'])
             temp = temp.strip().lower()
+        #    temp = self.stemming(temp).strip()
+            self.cleaned_questions_q_dot += temp + '?\n'
             self.cleaned_questions += temp + '\n'
             self.types_q += q['type'].strip() + '\n'
+
 
     def create_type_question_ft(self):
         """
@@ -43,30 +51,40 @@ class Question_Formatter():
         for i in range(0, len(self.cleaned_questions.splitlines())):
             self.type_question_ft += '__label__'+self.types_q.splitlines()[i] + ' ' + self.cleaned_questions.splitlines()[i] + '\n'
 
+    def stemming(self, sentence):
+        ps = PorterStemmer()
+        words = word_tokenize(sentence)
+        out = ''
+        for word in words:
+            out += ps.stem(word) + ' '
+        return out
 
-    def make_dictionary(self, questions):
-        words = set()
-        for q in questions:
-            for word, tag in q:
-                if word not in words:
-                    words.add(word)
-        return words
+
+    def count_type(self):
+        count_type = {}
+        for t in self.types:
+            count_type[t] = 0
+        for t in self.types_q.splitlines():
+            count_type[t] += 1
+        print(count_type)
 
     def question_medtagger(self):
         """
         Question word tagging with medical words recognition.
         :return: parsed_questions:list of questions tagged, parsed_question_type:list of question tagged and relative type
         """
-        self.save_on_file(self.clean_questions(), 'questions.txt')
+        self.save_on_file(self.cleaned_questions_q_dot, 'questions.txt')
         medpos_tag_out = self.medpos_tag('questions.txt')
         parsed_questions = self.parse(medpos_tag_out)
         parsed_questions_type = []
+        parsed_questions_out = []
         for i in range(0, len(self.data['questions'])):
             # [ type, [ (w1, tag_w1) , (w2, tag_w2) ... (wn, tagwn) ] ]
             parsed_questions_type += [[self.data['questions'][i]['type']] + [parsed_questions[i]]]
-        return parsed_questions, parsed_questions_type
+            parsed_questions_out += [parsed_questions[i]]
+        return parsed_questions_out, parsed_questions_type
 
-    def verify_startwith_rule(self, data, type = None):
+    def verify_startwith_rule(self, data, type=None):
         """
         Information about starting word of each question
         :param data: questions
@@ -156,9 +174,8 @@ class Question_Formatter():
             process = line.strip()
             process = process.replace('[', '(')
             process = process.replace(']', ')')
-            process = process.lower()
             if '?' in process:
-                q += process[:len(process)-1] + '], ['
+                q += '], ['
             else:
                 q += process
         q += "('?','.') ]"
